@@ -53,7 +53,7 @@ Kelas : TI.22.A1
 #### Python 
 1. Kunjungi tautan berikut untuk proses instalasinya : https://www.python.org/
 
-![2](https://user-images.githubusercontent.com/115867244/212943005-a0eb4987-4b96-40f5-95be-7897082a2f12.png)
+![dwld](https://user-images.githubusercontent.com/115864496/213115910-fb4f9d88-8fcd-4df2-ba5f-01c36b93f13b.png)
 
 
 2. Kemudian Install Python 3.11.1
@@ -117,17 +117,12 @@ Kelas : TI.22.A1
 
 6. Kemudian ketik program yang akan dijalankan (Saya menggunakan program *Studi Kasus 4: BukaLapak (URL : https://www.bukalapak.com/c/komputer/laptop?from=nav_header)*
 
-![12](https://user-images.githubusercontent.com/115867244/212950100-ce21c7b2-dab8-4e32-9051-269b9b68bc70.png)
+![Annotation 2023-01-18 143244](https://user-images.githubusercontent.com/115864496/213115837-3a8b8f7e-a53c-402d-8307-0c22de464d5c.png)
 
 
-7. Untuk tampilan lengkapnya sebagai berikut :
+7. Jika sudah benar dan berhasil di RUN maka akan menghasilkan output seperti gambar di bawah ini :
 
-![13](https://user-images.githubusercontent.com/115867244/212950391-2ec3d94a-2e1d-4e4b-9bdc-8e08b5a36bc3.png)
-
-
-8. JJika sudah benar dan berhasil di RUN maka akan menghasilkan output seperti gambar di bawah ini :
-
-![14](https://user-images.githubusercontent.com/115867244/212950863-3c0b6f20-474f-4d7b-a0af-57fc793c0dcb.png)
+![Annotation 2023-01-18 144035](https://user-images.githubusercontent.com/115864496/213115757-ec5f3e8e-7cdb-487c-bd12-36a4c2c53c2f.png)
 
 
 ## Sekian, Terimakasih
